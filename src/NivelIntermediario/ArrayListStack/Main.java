@@ -40,5 +40,6 @@ public class Main {
         System.out.println("Mostrar Stack = " + nomeNinjaStack);
         System.out.println("Ninja no topo (sem remover): " + nomeNinjaStack.peek());
         System.out.println("Mostrar Stack = " + nomeNinjaStack);
+
     }
 }
