@@ -2,6 +2,7 @@ package NivelIntermediario.ArrayListStack;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Queue;
 import java.util.Stack;
 
 public class Main {
@@ -40,6 +41,7 @@ public class Main {
         System.out.println("Mostrar Stack = " + nomeNinjaStack);
         System.out.println("Ninja no topo (sem remover): " + nomeNinjaStack.peek());
         System.out.println("Mostrar Stack = " + nomeNinjaStack);
+
 
     }
 }
