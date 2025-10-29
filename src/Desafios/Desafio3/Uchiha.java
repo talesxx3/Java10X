@@ -10,7 +10,7 @@ public class Uchiha extends Ninja {
         System.out.println("Missao = " + missao);
         System.out.println("Nivel de dificuldade = " + nivelDificuldade);
         System.out.println("Status da Missao = " + statusDaMissao);
-        System.out.println("habilidade especial: Uchiha");
+        System.out.println("habilidade especial: " + habilidadeEspecial);
 
     }
 }

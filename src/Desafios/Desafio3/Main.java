@@ -24,6 +24,7 @@ public class Main {
                 Obito.nivelDificuldade = "Impossível";
                 Obito.statusDaMissao = "Em Andamento";
                 Obito.missao = "Destruir a vila da Folha.";
+                Obito.habilidadeEspecial = "Shakra";
                 Obito.mostrarInformacoes();
                 break;
             case 2:
@@ -33,6 +34,7 @@ public class Main {
                 Itachi.nivelDificuldade = "Elevada";
                 Itachi.statusDaMissao = "Em Andamento";
                 Itachi.missao = "Proteger a vila da Folha";
+                Itachi.habilidadeEspecial = "Shakra";
                 Itachi.mostrarInformacoes();
                 break;
             case 3:
@@ -42,6 +44,7 @@ public class Main {
                 Sasuke.missao = "Recuperar o Pingente Sagrado";
                 Sasuke.nivelDificuldade = "Moderado";
                 Sasuke.statusDaMissao = "Em andamento";
+                Sasuke.habilidadeEspecial = "Shakra";
                 Sasuke.mostrarInformacoes();
                 break;
             default:
@@ -49,7 +52,7 @@ public class Main {
 
 
         }
-        
+
 
         sc.close();
     }
